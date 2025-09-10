@@ -13,3 +13,4 @@ git config --global user.name "yourname" - set user name.
 git config --global user.email "youremail" - set email.
 git config --list - view configuaration .
 cd 
+hello

@@ -1,0 +1,8 @@
+mkdir - used to make a new folder.
+ls - used to list the file .
+git clone "url"- used to clone the repository. 
+touch filename.txt - used o create the new file in the existing folder.
+code . - used to open the vs code to write the file content.
+git add . - used to tell git which file should added or save in the next commit.
+git status - used to repo status.
+git commit -m "message"  - commite changes with message.
