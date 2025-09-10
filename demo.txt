@@ -8,9 +8,3 @@ git status - used to repo status.
 git commit -m "message"  - commite changes with message.
 git push - used to upload the local commit to remote.
 history - used to check the list of command which are used privesioly.
-vi filename.txt - used o create the file in an editor.(to exit tje editor use esc + :wq).
-git config --global user.name "yourname" - set user name.
-git config --global user.email "youremail" - set email.
-git config --list - view configuaration .
-cd 
-hello
