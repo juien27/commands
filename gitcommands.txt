@@ -12,5 +12,3 @@ vi filename.txt - used o create the file in an editor.(to exit tje editor use es
 git config --global user.name "yourname" - set user name.
 git config --global user.email "youremail" - set email.
 git config --list - view configuaration .
-cd 
-hello
